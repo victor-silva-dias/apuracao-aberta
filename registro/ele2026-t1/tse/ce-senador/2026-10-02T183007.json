@@ -1,0 +1,82 @@
+{
+ "uf": "ce",
+ "cargo": "senador",
+ "capturado_em": "2026-10-04T15:35:32.954Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ce/ce-c0005-e006259-u.json",
+  "atualizado_tse": "02/10/2026 18:30:07",
+  "secoes_pct": 0,
+  "secoes": "0/23765",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "222",
+   "nome": "ALCIDES FERNANDES",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "445",
+   "nome": "CAPITÃO WAGNER",
+   "partido": "UNIÃO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "800",
+   "nome": "CATARINA MATOS",
+   "partido": "UP",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "400",
+   "nome": "CID GOMES",
+   "partido": "PSB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "300",
+   "nome": "GUILHERME THEOPHILO",
+   "partido": "NOVO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "290",
+   "nome": "LINO ALVES",
+   "partido": "PCO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "180",
+   "nome": "LUIZIANNE",
+   "partido": "REDE",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "162",
+   "nome": "REGINALDO",
+   "partido": "PSTU",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

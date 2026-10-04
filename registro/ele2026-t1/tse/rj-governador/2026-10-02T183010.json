@@ -1,0 +1,90 @@
+{
+ "uf": "rj",
+ "cargo": "governador",
+ "capturado_em": "2026-10-04T15:35:33.130Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0003-e006259-u.json",
+  "atualizado_tse": "02/10/2026 18:30:10",
+  "secoes_pct": 0,
+  "secoes": "0/37675",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "30",
+   "nome": "ANDRÉ MARINHO",
+   "partido": "NOVO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "14",
+   "nome": "CORONEL BUSNELLO",
+   "partido": "MISSÃO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "16",
+   "nome": "CYRO GARCIA",
+   "partido": "PSTU",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "22",
+   "nome": "DOUGLAS RUAS",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "55",
+   "nome": "EDUARDO PAES",
+   "partido": "PSD",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "10",
+   "nome": "GAROTINHO",
+   "partido": "REPUBLICANOS",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "80",
+   "nome": "JULIETE",
+   "partido": "UP",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "29",
+   "nome": "LUAN MONTEIRO",
+   "partido": "PCO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "50",
+   "nome": "WILLIAM SIRI",
+   "partido": "PSOL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

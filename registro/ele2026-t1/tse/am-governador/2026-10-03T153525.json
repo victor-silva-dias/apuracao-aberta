@@ -1,0 +1,74 @@
+{
+ "uf": "am",
+ "cargo": "governador",
+ "capturado_em": "2026-10-04T15:35:48.948Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/am/am-c0003-e006259-u.json",
+  "atualizado_tse": "03/10/2026 15:35:25",
+  "secoes_pct": 0,
+  "secoes": "0/8157",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "33",
+   "nome": "CABO DACIOLO",
+   "partido": "MOBILIZA",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "70",
+   "nome": "DAVID ALMEIDA",
+   "partido": "AVANTE",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "16",
+   "nome": "GILBERTO VASCONCELOS",
+   "partido": "PSTU",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "18",
+   "nome": "ISAEL MUNDURUKU",
+   "partido": "REDE",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "55",
+   "nome": "OMAR AZIZ",
+   "partido": "PSD",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "22",
+   "nome": "PROFESSORA MARIA DO CARMO",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "44",
+   "nome": "ROBERTO CIDADE",
+   "partido": "UNIÃO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

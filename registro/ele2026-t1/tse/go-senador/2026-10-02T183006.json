@@ -1,0 +1,106 @@
+{
+ "uf": "go",
+ "cargo": "senador",
+ "capturado_em": "2026-10-04T15:35:32.999Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/go/go-c0005-e006259-u.json",
+  "atualizado_tse": "02/10/2026 18:30:06",
+  "secoes_pct": 0,
+  "secoes": "0/15686",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "500",
+   "nome": "CINTIA DIAS",
+   "partido": "PSOL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "155",
+   "nome": "DR. ZACHARIAS CALIL",
+   "partido": "MDB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "456",
+   "nome": "ERNESTO ROLLER",
+   "partido": "PSDB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "444",
+   "nome": "GRACINHA CAIADO",
+   "partido": "UNIÃO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "800",
+   "nome": "GUILHERME DARQUES",
+   "partido": "UP",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "222",
+   "nome": "GUSTAVO GAYER",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "251",
+   "nome": "GUSTAVO MENDANHA",
+   "partido": "PRD",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "400",
+   "nome": "ISAURA LEMOS",
+   "partido": "PSB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "234",
+   "nome": "IURE CASTRO",
+   "partido": "CIDADANIA",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "227",
+   "nome": "OSÉIAS VARÃO",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "555",
+   "nome": "VANDERLAN CARDOSO",
+   "partido": "PSD",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

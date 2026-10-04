@@ -1,0 +1,82 @@
+{
+ "uf": "pr",
+ "cargo": "governador",
+ "capturado_em": "2026-10-04T15:35:33.085Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0003-e006259-u.json",
+  "atualizado_tse": "02/10/2026 18:30:10",
+  "secoes_pct": 0,
+  "secoes": "0/27142",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "29",
+   "nome": "ADRIANO FUNILEIRO",
+   "partido": "PCO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "33",
+   "nome": "DOUTOR ALEXANDRE SALOMÃO",
+   "partido": "MOBILIZA",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "14",
+   "nome": "LUIZ FRANÇA",
+   "partido": "MISSÃO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "12",
+   "nome": "REQUIÃO FILHO",
+   "partido": "PDT",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "16",
+   "nome": "SAMUEL DE MATTOS",
+   "partido": "PSTU",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "55",
+   "nome": "SANDRO ALEX",
+   "partido": "PSD",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "22",
+   "nome": "SERGIO MORO",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "80",
+   "nome": "TAYNÁ MIESSA",
+   "partido": "UP",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

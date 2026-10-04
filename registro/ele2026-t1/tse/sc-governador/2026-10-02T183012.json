@@ -1,0 +1,82 @@
+{
+ "uf": "sc",
+ "cargo": "governador",
+ "capturado_em": "2026-10-04T15:35:33.168Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0003-e006259-u.json",
+  "atualizado_tse": "02/10/2026 18:30:12",
+  "secoes_pct": 0,
+  "secoes": "0/17326",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "29",
+   "nome": "BRUNO PEDREIRO DO PCO",
+   "partido": "PCO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "40",
+   "nome": "GELSON MERÍSIO",
+   "partido": "PSB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "55",
+   "nome": "JOÃO RODRIGUES",
+   "partido": "PSD",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "22",
+   "nome": "JORGINHO MELLO",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "80",
+   "nome": "LAÍS CHAUD",
+   "partido": "UP",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "14",
+   "nome": "MARCELO BRIGADEIRO",
+   "partido": "MISSÃO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "16",
+   "nome": "PROFESSOR MARCUS SODRÉ",
+   "partido": "PSTU",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "25",
+   "nome": "RALF ZIMMER",
+   "partido": "PRD",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

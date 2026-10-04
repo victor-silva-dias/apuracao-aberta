@@ -1,0 +1,82 @@
+{
+ "uf": "rn",
+ "cargo": "governador",
+ "capturado_em": "2026-10-04T15:35:33.132Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rn/rn-c0003-e006259-u.json",
+  "atualizado_tse": "03/10/2026 18:24:37",
+  "secoes_pct": 0,
+  "secoes": "0/8115",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "44",
+   "nome": "ALLYSON",
+   "partido": "UNIÃO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "22",
+   "nome": "ÁLVARO DIAS",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "80",
+   "nome": "ARINALDA DO MLB",
+   "partido": "UP",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "13",
+   "nome": "CADU DE LULA",
+   "partido": "PT",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "16",
+   "nome": "DÁRIO BARBOSA",
+   "partido": "PSTU",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "27",
+   "nome": "GODEIRO LINHARESS",
+   "partido": "DC",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "29",
+   "nome": "HENRIQUE LYRA",
+   "partido": "PCO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "36",
+   "nome": "RODRIGO DE BOLSONARO",
+   "partido": "AGIR",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

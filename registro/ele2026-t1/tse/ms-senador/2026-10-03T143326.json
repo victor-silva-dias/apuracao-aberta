@@ -1,0 +1,90 @@
+{
+ "uf": "ms",
+ "cargo": "senador",
+ "capturado_em": "2026-10-04T15:35:33.047Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ms/ms-c0005-e006259-u.json",
+  "atualizado_tse": "03/10/2026 14:33:26",
+  "secoes_pct": 0,
+  "secoes": "0/7106",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "500",
+   "nome": "BETO DO MOVIMENTO",
+   "partido": "PSOL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "221",
+   "nome": "CAPITÃO CONTAR",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "277",
+   "nome": "LUIZ LEMES",
+   "partido": "DC",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "222",
+   "nome": "REINALDO AZAMBUJA",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "300",
+   "nome": "ROBERTO OSHIRO",
+   "partido": "NOVO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "400",
+   "nome": "SORAYA",
+   "partido": "PSB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "290",
+   "nome": "VALDERI GARCIA",
+   "partido": "PCO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "258",
+   "nome": "VALTER DA COMAGRAN",
+   "partido": "PRD",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "133",
+   "nome": "VANDER LOUBET",
+   "partido": "PT",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

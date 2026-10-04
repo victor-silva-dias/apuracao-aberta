@@ -1,0 +1,66 @@
+{
+ "uf": "pa",
+ "cargo": "governador",
+ "capturado_em": "2026-10-04T15:35:33.051Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pa/pa-c0003-e006259-u.json",
+  "atualizado_tse": "02/10/2026 18:30:06",
+  "secoes_pct": 0,
+  "secoes": "0/20827",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "50",
+   "nome": "ARACELI",
+   "partido": "PSOL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "20",
+   "nome": "DR. DANIEL",
+   "partido": "PODE",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "80",
+   "nome": "GAL LEITE",
+   "partido": "UP",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "15",
+   "nome": "HANA GHASSAN",
+   "partido": "MDB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "35",
+   "nome": "RUTH REIS",
+   "partido": "DEMOCRATA",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "16",
+   "nome": "WELL MACEDO",
+   "partido": "PSTU",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

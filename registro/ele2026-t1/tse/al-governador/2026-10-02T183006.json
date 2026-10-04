@@ -1,0 +1,50 @@
+{
+ "uf": "al",
+ "cargo": "governador",
+ "capturado_em": "2026-10-04T15:35:48.952Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/al/al-c0003-e006259-u.json",
+  "atualizado_tse": "02/10/2026 18:30:06",
+  "secoes_pct": 0,
+  "secoes": "0/7101",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "45",
+   "nome": "JHC",
+   "partido": "PSDB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "80",
+   "nome": "LENILDA LUNA",
+   "partido": "UP",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "35",
+   "nome": "MÁRCIO JAMBO",
+   "partido": "DEMOCRATA",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "15",
+   "nome": "RENAN FILHO",
+   "partido": "MDB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

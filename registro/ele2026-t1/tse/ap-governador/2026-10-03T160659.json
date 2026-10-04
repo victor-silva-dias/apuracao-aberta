@@ -1,0 +1,58 @@
+{
+ "uf": "ap",
+ "cargo": "governador",
+ "capturado_em": "2026-10-04T15:35:32.911Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ap/ap-c0003-e006259-u.json",
+  "atualizado_tse": "03/10/2026 16:06:59",
+  "secoes_pct": 0,
+  "secoes": "0/1914",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "16",
+   "nome": "CARLOS CLEY",
+   "partido": "PSTU",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "44",
+   "nome": "CLÉCIO",
+   "partido": "UNIÃO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "27",
+   "nome": "DELEGADO MARCOS",
+   "partido": "DC",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "55",
+   "nome": "DR. FURLAN",
+   "partido": "PSD",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "29",
+   "nome": "JAIRO PALHETA",
+   "partido": "PCO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

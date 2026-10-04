@@ -1,0 +1,58 @@
+{
+ "uf": "sp",
+ "cargo": "governador",
+ "capturado_em": "2026-10-04T15:35:33.230Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0003-e006259-u.json",
+  "atualizado_tse": "02/10/2026 18:30:13",
+  "secoes_pct": 0,
+  "secoes": "0/103656",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "21",
+   "nome": "CARLOS MACHADO",
+   "partido": "PCB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "13",
+   "nome": "FERNANDO HADDAD",
+   "partido": "PT",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "10",
+   "nome": "TARCÍSIO",
+   "partido": "REPUBLICANOS",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "16",
+   "nome": "VERA LÚCIA",
+   "partido": "PSTU",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "80",
+   "nome": "VIVIAN MENDES",
+   "partido": "UP",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

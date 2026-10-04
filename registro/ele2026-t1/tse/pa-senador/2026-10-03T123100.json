@@ -1,0 +1,114 @@
+{
+ "uf": "pa",
+ "cargo": "senador",
+ "capturado_em": "2026-10-04T15:35:33.055Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pa/pa-c0005-e006259-u.json",
+  "atualizado_tse": "03/10/2026 12:31:00",
+  "secoes_pct": 0,
+  "secoes": "0/20827",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "333",
+   "nome": "BRENO GUIMARÃES",
+   "partido": "MOBILIZA",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "123",
+   "nome": "CELSO SABINO",
+   "partido": "PDT",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "444",
+   "nome": "CHICÃO",
+   "partido": "UNIÃO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "500",
+   "nome": "CONTI",
+   "partido": "PSOL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "277",
+   "nome": "CORONEL JONILDO",
+   "partido": "DC",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "222",
+   "nome": "DELEGADO ÉDER MAURO",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "355",
+   "nome": "EDLAINE RODRIGUES",
+   "partido": "DEMOCRATA",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "800",
+   "nome": "FERNANDA LOPES",
+   "partido": "UP",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "505",
+   "nome": "GIZELLE FREITAS",
+   "partido": "PSOL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "151",
+   "nome": "HELDER",
+   "partido": "MDB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "777",
+   "nome": "LIVIA NORONHA",
+   "partido": "SOLIDARIEDADE",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "200",
+   "nome": "ZEQUINHA MARINHO",
+   "partido": "PODE",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

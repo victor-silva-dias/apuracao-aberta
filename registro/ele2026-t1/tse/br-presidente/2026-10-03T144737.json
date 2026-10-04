@@ -1,0 +1,114 @@
+{
+ "uf": "br",
+ "cargo": "presidente",
+ "capturado_em": "2026-10-04T15:35:32.820Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/br/br-c0001-e006257-u.json",
+  "atualizado_tse": "03/10/2026 14:47:37",
+  "secoes_pct": 0,
+  "secoes": "0/499248",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "27",
+   "nome": "CLARIANA BARAO",
+   "partido": "DC",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "21",
+   "nome": "EDMILSON COSTA",
+   "partido": "PCB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "70",
+   "nome": "ESCRITOR AUGUSTO CURY",
+   "partido": "AVANTE",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "22",
+   "nome": "FLAVIO BOLSONARO",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "16",
+   "nome": "HERTZ DIAS",
+   "partido": "PSTU",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "13",
+   "nome": "LULA",
+   "partido": "PT",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "14",
+   "nome": "RENAN SANTOS",
+   "partido": "MISSÃO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "55",
+   "nome": "RONALDO CAIADO",
+   "partido": "PSD",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "29",
+   "nome": "RUI COSTA PIMENTA",
+   "partido": "PCO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "80",
+   "nome": "SAMARA",
+   "partido": "UP",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "35",
+   "nome": "VETERINÁRIO WILSON GRASSI",
+   "partido": "DEMOCRATA",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "30",
+   "nome": "ZEMA",
+   "partido": "NOVO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

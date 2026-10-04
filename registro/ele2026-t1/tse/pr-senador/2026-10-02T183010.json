@@ -1,0 +1,90 @@
+{
+ "uf": "pr",
+ "cargo": "senador",
+ "capturado_em": "2026-10-04T15:35:33.127Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0005-e006259-u.json",
+  "atualizado_tse": "02/10/2026 18:30:10",
+  "secoes_pct": 0,
+  "secoes": "0/27142",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "100",
+   "nome": "ALEXANDRE CURI",
+   "partido": "REPUBLICANOS",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "555",
+   "nome": "CRISTINA GRAEML",
+   "partido": "PSD",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "300",
+   "nome": "DELTAN DALLAGNOL",
+   "partido": "NOVO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "132",
+   "nome": "DR ROSINHA",
+   "partido": "PT",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "222",
+   "nome": "FILIPE BARROS",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "131",
+   "nome": "GLEISI",
+   "partido": "PT",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "800",
+   "nome": "JOAQUIM DO MLB",
+   "partido": "UP",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "144",
+   "nome": "KAREN GUERREIRO",
+   "partido": "MISSÃO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "290",
+   "nome": "MARCELO MARCELINO",
+   "partido": "PCO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

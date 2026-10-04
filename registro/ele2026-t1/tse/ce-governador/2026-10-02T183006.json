@@ -1,0 +1,82 @@
+{
+ "uf": "ce",
+ "cargo": "governador",
+ "capturado_em": "2026-10-04T15:35:32.898Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ce/ce-c0003-e006259-u.json",
+  "atualizado_tse": "02/10/2026 18:30:06",
+  "secoes_pct": 0,
+  "secoes": "0/23765",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "45",
+   "nome": "CIRO GOMES",
+   "partido": "PSDB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "35",
+   "nome": "DANILO SOARES",
+   "partido": "DEMOCRATA",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "14",
+   "nome": "DELEGADO HUGGO",
+   "partido": "MISSÃO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "13",
+   "nome": "ELMANO DE FREITAS",
+   "partido": "PT",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "29",
+   "nome": "IERI BRAGA",
+   "partido": "PCO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "80",
+   "nome": "SERLEY LEAL",
+   "partido": "UP",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "30",
+   "nome": "VERA LÚCIA",
+   "partido": "NOVO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "16",
+   "nome": "ZÉ BATISTA",
+   "partido": "PSTU",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

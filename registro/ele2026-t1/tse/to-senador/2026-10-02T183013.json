@@ -1,0 +1,122 @@
+{
+ "uf": "to",
+ "cargo": "senador",
+ "capturado_em": "2026-10-04T15:35:33.271Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/to/to-c0005-e006259-u.json",
+  "atualizado_tse": "02/10/2026 18:30:13",
+  "secoes_pct": 0,
+  "secoes": "0/4384",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "153",
+   "nome": "ALEXANDRE GUIMARÃES",
+   "partido": "MDB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "277",
+   "nome": "APÓSTOLO FLAVIO BRAGA",
+   "partido": "DC",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "303",
+   "nome": "CORONEL NILTON SANTOS",
+   "partido": "NOVO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "222",
+   "nome": "EDUARDO GOMES",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "100",
+   "nome": "ELI BORGES",
+   "partido": "REPUBLICANOS",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "180",
+   "nome": "FÁBIO RIBEIRO",
+   "partido": "REDE",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "444",
+   "nome": "GAGUIM",
+   "partido": "UNIÃO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "351",
+   "nome": "HELIO RODRIGUES BOLSONARO",
+   "partido": "DEMOCRATA",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "355",
+   "nome": "OSVANY LUZ",
+   "partido": "DEMOCRATA",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "133",
+   "nome": "PAULO MOURÃO",
+   "partido": "PT",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "500",
+   "nome": "PROFESSOR OSVALDO",
+   "partido": "PSOL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "202",
+   "nome": "RONALDO DIMAS",
+   "partido": "PODE",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "200",
+   "nome": "VANDERLEI LUXEMBURGO",
+   "partido": "PODE",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

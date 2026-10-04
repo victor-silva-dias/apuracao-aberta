@@ -1,0 +1,82 @@
+{
+ "uf": "am",
+ "cargo": "senador",
+ "capturado_em": "2026-10-04T15:35:32.854Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/am/am-c0005-e006259-u.json",
+  "atualizado_tse": "03/10/2026 15:35:25",
+  "secoes_pct": 0,
+  "secoes": "0/8157",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "222",
+   "nome": "CAPITÃO ALBERTO NETO",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "277",
+   "nome": "DAILSON CORRÊA",
+   "partido": "DC",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "155",
+   "nome": "EDUARDO BRAGA",
+   "partido": "MDB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "161",
+   "nome": "EVANDRO DE OLIVEIRA",
+   "partido": "PSTU",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "455",
+   "nome": "PLINIO VALÉRIO",
+   "partido": "PSDB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "500",
+   "nome": "PROFESSORA EVANY",
+   "partido": "PSOL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "444",
+   "nome": "WILSON LIMA",
+   "partido": "UNIÃO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "333",
+   "nome": "XUXA DO AMAZONAS",
+   "partido": "MOBILIZA",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

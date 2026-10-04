@@ -1,0 +1,98 @@
+{
+ "uf": "pb",
+ "cargo": "senador",
+ "capturado_em": "2026-10-04T15:35:33.087Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pb/pb-c0005-e006259-u.json",
+  "atualizado_tse": "02/10/2026 18:30:09",
+  "secoes_pct": 0,
+  "secoes": "0/10712",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "290",
+   "nome": "ADRIANO TRAJANO",
+   "partido": "PCO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "151",
+   "nome": "ANDRÉ GADELHA",
+   "partido": "MDB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "222",
+   "nome": "DR. MARCELO QUEIROGA",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "400",
+   "nome": "JOAO AZEVÊDO",
+   "partido": "PSB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "801",
+   "nome": "JOÃO BATISTA",
+   "partido": "UP",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "300",
+   "nome": "MAJOR FÁBIO",
+   "partido": "NOVO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "100",
+   "nome": "NABOR",
+   "partido": "REPUBLICANOS",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "272",
+   "nome": "RINALDO JÚNIOR",
+   "partido": "DC",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "800",
+   "nome": "ROSILENE SANTANA",
+   "partido": "UP",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "155",
+   "nome": "VENEZIANO",
+   "partido": "MDB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

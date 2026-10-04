@@ -1,0 +1,98 @@
+{
+ "uf": "ba",
+ "cargo": "senador",
+ "capturado_em": "2026-10-04T15:35:32.895Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0005-e006259-u.json",
+  "atualizado_tse": "02/10/2026 18:30:07",
+  "secoes_pct": 0,
+  "secoes": "0/35476",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "100",
+   "nome": "ANGELO CORONEL",
+   "partido": "REPUBLICANOS",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "333",
+   "nome": "CARLOS SODRÉ",
+   "partido": "MOBILIZA",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "800",
+   "nome": "GREGORIO GOULD",
+   "partido": "UP",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "130",
+   "nome": "JAQUES WAGNER",
+   "partido": "PT",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "222",
+   "nome": "JOÃO ROMA",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "180",
+   "nome": "MARCELO CARVALHO",
+   "partido": "REDE",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "290",
+   "nome": "MARCELO MILLET",
+   "partido": "PCO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "277",
+   "nome": "MARCELO SANTTANA",
+   "partido": "DC",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "500",
+   "nome": "PROFESSORA DELLIANA",
+   "partido": "PSOL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "133",
+   "nome": "RUI COSTA",
+   "partido": "PT",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

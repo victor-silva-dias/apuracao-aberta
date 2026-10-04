@@ -1,0 +1,106 @@
+{
+ "uf": "df",
+ "cargo": "senador",
+ "capturado_em": "2026-10-04T15:35:32.944Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0005-e006259-u.json",
+  "atualizado_tse": "02/10/2026 18:30:07",
+  "secoes_pct": 0,
+  "secoes": "0/6969",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "223",
+   "nome": "BIA KICIS",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "290",
+   "nome": "DAVID HORN",
+   "partido": "PCO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "131",
+   "nome": "ERIKA KOKAY",
+   "partido": "PT",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "456",
+   "nome": "GUTO FELÍCIO DOS SANTOS",
+   "partido": "PSDB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "123",
+   "nome": "LEILA DO VÔLEI",
+   "partido": "PDT",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "700",
+   "nome": "MARLEY",
+   "partido": "AVANTE",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "222",
+   "nome": "MICHELLE BOLSONARO",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "800",
+   "nome": "PROFESSOR GUILHERME AMORIM",
+   "partido": "UP",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "300",
+   "nome": "SEBASTIÃO COELHO",
+   "partido": "NOVO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "360",
+   "nome": "TIAGO",
+   "partido": "AGIR",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "161",
+   "nome": "ZANATA",
+   "partido": "PSTU",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

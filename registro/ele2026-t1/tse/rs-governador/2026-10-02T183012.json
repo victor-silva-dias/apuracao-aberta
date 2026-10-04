@@ -1,0 +1,74 @@
+{
+ "uf": "rs",
+ "cargo": "governador",
+ "capturado_em": "2026-10-04T15:35:33.170Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0003-e006259-u.json",
+  "atualizado_tse": "02/10/2026 18:30:12",
+  "secoes_pct": 0,
+  "secoes": "0/27547",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "29",
+   "nome": "CESAR PONTES",
+   "partido": "PCO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "15",
+   "nome": "GABRIEL SOUZA",
+   "partido": "MDB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "12",
+   "nome": "JULIANA BRIZOLA",
+   "partido": "PDT",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "45",
+   "nome": "MARCELO MARANATA",
+   "partido": "PSDB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "80",
+   "nome": "PRISCILA VOIGT",
+   "partido": "UP",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "16",
+   "nome": "REJANE DE OLIVEIRA",
+   "partido": "PSTU",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "22",
+   "nome": "ZUCCO",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

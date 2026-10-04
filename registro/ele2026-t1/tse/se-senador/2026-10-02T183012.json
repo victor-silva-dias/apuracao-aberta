@@ -1,0 +1,98 @@
+{
+ "uf": "se",
+ "cargo": "senador",
+ "capturado_em": "2026-10-04T15:35:33.234Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/se/se-c0005-e006259-u.json",
+  "atualizado_tse": "02/10/2026 18:30:12",
+  "secoes_pct": 0,
+  "secoes": "0/5923",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "444",
+   "nome": "ANDRÉ MOURA",
+   "partido": "UNIÃO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "221",
+   "nome": "CORONEL ROCHA",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "155",
+   "nome": "DELEGADO ALESSANDRO",
+   "partido": "MDB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "101",
+   "nome": "DELEGADO ANDRÉ DAVID",
+   "partido": "REPUBLICANOS",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "100",
+   "nome": "EDUARDO AMORIM",
+   "partido": "REPUBLICANOS",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "123",
+   "nome": "EDVALDO",
+   "partido": "PDT",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "500",
+   "nome": "IRAN BARBOSA",
+   "partido": "PSOL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "277",
+   "nome": "RENATINHA",
+   "partido": "DC",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "222",
+   "nome": "RODRIGO VALADARES",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "131",
+   "nome": "ROGERIO CARVALHO",
+   "partido": "PT",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

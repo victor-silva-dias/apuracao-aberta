@@ -1,0 +1,106 @@
+{
+ "uf": "ma",
+ "cargo": "senador",
+ "capturado_em": "2026-10-04T15:35:33.019Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ma/ma-c0005-e006259-u.json",
+  "atualizado_tse": "02/10/2026 18:30:07",
+  "secoes_pct": 0,
+  "secoes": "0/18093",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "222",
+   "nome": "CIDÔNIO GONÇALVES",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "333",
+   "nome": "DR.HILTON GONÇALO",
+   "partido": "MOBILIZA",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "133",
+   "nome": "ELIZIANE GAMA",
+   "partido": "PT",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "500",
+   "nome": "ENILTON RODRIGUES",
+   "partido": "PSOL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "111",
+   "nome": "FUFUCA",
+   "partido": "PP",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "300",
+   "nome": "LAHESIO BONFIM",
+   "partido": "NOVO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "212",
+   "nome": "RAIMUNDO MOREIRA",
+   "partido": "PCB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "151",
+   "nome": "ROSEANA SARNEY",
+   "partido": "MDB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "277",
+   "nome": "SIMPLÍCIO ARAÚJO",
+   "partido": "DC",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "123",
+   "nome": "WEVERTON ROCHA",
+   "partido": "PDT",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "160",
+   "nome": "WILSON LEITE",
+   "partido": "PSTU",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

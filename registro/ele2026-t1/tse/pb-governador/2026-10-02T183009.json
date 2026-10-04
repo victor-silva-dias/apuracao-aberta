@@ -1,0 +1,58 @@
+{
+ "uf": "pb",
+ "cargo": "governador",
+ "capturado_em": "2026-10-04T15:35:33.054Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pb/pb-c0003-e006259-u.json",
+  "atualizado_tse": "02/10/2026 18:30:09",
+  "secoes_pct": 0,
+  "secoes": "0/10712",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "29",
+   "nome": "CAMILO DUARTE",
+   "partido": "PCO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "15",
+   "nome": "CÍCERO LUCENA",
+   "partido": "MDB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "22",
+   "nome": "EFRAIM FILHO",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "11",
+   "nome": "LUCAS RIBEIRO",
+   "partido": "PP",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "80",
+   "nome": "YURI EZEQUIEL",
+   "partido": "UP",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

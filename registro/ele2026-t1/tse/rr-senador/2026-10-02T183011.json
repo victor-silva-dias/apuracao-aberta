@@ -1,0 +1,122 @@
+{
+ "uf": "rr",
+ "cargo": "senador",
+ "capturado_em": "2026-10-04T15:35:33.168Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rr/rr-c0005-e006259-u.json",
+  "atualizado_tse": "02/10/2026 18:30:11",
+  "secoes_pct": 0,
+  "secoes": "0/1519",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "500",
+   "nome": "BARTÔ MACUXI",
+   "partido": "PSOL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "400",
+   "nome": "CHICO RODRIGUES",
+   "partido": "PSB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "555",
+   "nome": "HELENA DA ASATUR",
+   "partido": "PSD",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "222",
+   "nome": "HELIO FERNANDO BARBOSA LOPES",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "700",
+   "nome": "HILTON XAVIER",
+   "partido": "AVANTE",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "433",
+   "nome": "HIPERION DE OLIVEIRA",
+   "partido": "PV",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "456",
+   "nome": "MÁRCIO JUNQUEIRA",
+   "partido": "PSDB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "505",
+   "nome": "MARIO ROCHA",
+   "partido": "PSOL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "227",
+   "nome": "NICOLETTI",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "444",
+   "nome": "PASTOR ISAMAR",
+   "partido": "UNIÃO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "300",
+   "nome": "REGINA TIO IVO",
+   "partido": "NOVO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "277",
+   "nome": "ROGÉRIO MIRANDA",
+   "partido": "DC",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "155",
+   "nome": "TERESA SURITA",
+   "partido": "MDB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

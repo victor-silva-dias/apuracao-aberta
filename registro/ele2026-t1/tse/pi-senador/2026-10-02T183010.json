@@ -1,0 +1,146 @@
+{
+ "uf": "pi",
+ "cargo": "senador",
+ "capturado_em": "2026-10-04T15:35:33.100Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pi/pi-c0005-e006259-u.json",
+  "atualizado_tse": "02/10/2026 18:30:10",
+  "secoes_pct": 0,
+  "secoes": "0/10225",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "300",
+   "nome": "ANTÔNIO BARROS",
+   "partido": "NOVO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "700",
+   "nome": "ANTÔNIO JOSÉ LIRA",
+   "partido": "AVANTE",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "111",
+   "nome": "CIRO NOGUEIRA",
+   "partido": "PP",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "291",
+   "nome": "CLOVES JOSÉ",
+   "partido": "PCO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "166",
+   "nome": "DANNIEL ROCHA",
+   "partido": "PSTU",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "277",
+   "nome": "DIONISIO CARVALHO",
+   "partido": "DC",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "500",
+   "nome": "FRANCINALDO LEÃO",
+   "partido": "PSOL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "278",
+   "nome": "IRMÃO EVANDRO MARQUES",
+   "partido": "DC",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "355",
+   "nome": "JARDENYA BEZERRA",
+   "partido": "DEMOCRATA",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "456",
+   "nome": "JORGE LOPES",
+   "partido": "PSDB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "555",
+   "nome": "JÚLIO CÉSAR O JULIM DO LULA",
+   "partido": "PSD",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "151",
+   "nome": "MARCELO CASTRO",
+   "partido": "MDB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "505",
+   "nome": "MARIA MADALENA NUNES",
+   "partido": "PSOL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "350",
+   "nome": "MISSIONÁRIO EVANDRO CRAVEIRO",
+   "partido": "DEMOCRATA",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "800",
+   "nome": "PEDRO LAURENTINO",
+   "partido": "UP",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "222",
+   "nome": "TIAGO JUNQUEIRA",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "uf": "mt",
+ "cargo": "governador",
+ "capturado_em": "2026-10-04T15:35:33.051Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mt/mt-c0003-e006259-u.json",
+  "atualizado_tse": "02/10/2026 18:30:07",
+  "secoes_pct": 0,
+  "secoes": "0/8287",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "55",
+   "nome": "DOUTORA NATASHA",
+   "partido": "PSD",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "33",
+   "nome": "MAURICIO COELHO",
+   "partido": "MOBILIZA",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "10",
+   "nome": "OTAVIANO PIVETTA",
+   "partido": "REPUBLICANOS",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "14",
+   "nome": "RAFAELL MILAS",
+   "partido": "MISSÃO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "36",
+   "nome": "SARGENTO LAUDICÉRIO",
+   "partido": "AGIR",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "22",
+   "nome": "WELLINGTON FAGUNDES",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

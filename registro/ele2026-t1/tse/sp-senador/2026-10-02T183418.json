@@ -1,0 +1,122 @@
+{
+ "uf": "sp",
+ "cargo": "senador",
+ "capturado_em": "2026-10-04T15:35:33.236Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0005-e006259-u.json",
+  "atualizado_tse": "02/10/2026 18:34:18",
+  "secoes_pct": 0,
+  "secoes": "0/103656",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "222",
+   "nome": "ANDRÉ DO PRADO",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "161",
+   "nome": "DRA ELIANA FERREIRA",
+   "partido": "PSTU",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "200",
+   "nome": "GERALDO RUFINO",
+   "partido": "PODE",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "111",
+   "nome": "GUILHERME DERRITE",
+   "partido": "PP",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "144",
+   "nome": "GUTO SCHIAVETTO",
+   "partido": "MISSÃO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "808",
+   "nome": "MAÍRA DE SOUZA",
+   "partido": "UP",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "800",
+   "nome": "MARCIO ALVES",
+   "partido": "UP",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "180",
+   "nome": "MARINA SILVA",
+   "partido": "REDE",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "211",
+   "nome": "PETTER MAAHS",
+   "partido": "PCB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "400",
+   "nome": "SIMONE TEBET",
+   "partido": "PSB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "232",
+   "nome": "SONINHA FRANCINE",
+   "partido": "CIDADANIA",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "160",
+   "nome": "WELLER GONÇALVES",
+   "partido": "PSTU",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "360",
+   "nome": "WILLIAM TEIXEIRA",
+   "partido": "AGIR",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "uf": "ac",
+ "cargo": "senador",
+ "capturado_em": "2026-10-04T15:35:48.945Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ac/ac-c0005-e006259-u.json",
+  "atualizado_tse": "03/10/2026 14:48:19",
+  "secoes_pct": 0,
+  "secoes": "0/2270",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "277",
+   "nome": "DR. JUNIOR FEITOSA",
+   "partido": "DC",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "777",
+   "nome": "EDUARDO VELLOSO",
+   "partido": "SOLIDARIEDADE",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "111",
+   "nome": "GLADSON CAMELÍ",
+   "partido": "PP",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "131",
+   "nome": "JORGE VIANA",
+   "partido": "PT",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "100",
+   "nome": "MARA ROCHA",
+   "partido": "REPUBLICANOS",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "222",
+   "nome": "MARCIO BITTAR",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "555",
+   "nome": "PETECÃO",
+   "partido": "PSD",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "500",
+   "nome": "PROFESSOR INACIO MOREIRA",
+   "partido": "PSOL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

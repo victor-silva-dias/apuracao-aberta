@@ -1,0 +1,66 @@
+{
+ "uf": "ro",
+ "cargo": "governador",
+ "capturado_em": "2026-10-04T15:35:33.137Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ro/ro-c0003-e006259-u.json",
+  "atualizado_tse": "02/10/2026 18:30:10",
+  "secoes_pct": 0,
+  "secoes": "0/4698",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "55",
+   "nome": "ADAILTON FURIA",
+   "partido": "PSD",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "13",
+   "nome": "EXPEDITO NETTO",
+   "partido": "PT",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "44",
+   "nome": "HILDON CHAVES",
+   "partido": "UNIÃO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "22",
+   "nome": "MARCOS ROGÉRIO",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "15",
+   "nome": "PEDRO ABIB",
+   "partido": "MDB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "40",
+   "nome": "SAMUEL COSTA",
+   "partido": "PSB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

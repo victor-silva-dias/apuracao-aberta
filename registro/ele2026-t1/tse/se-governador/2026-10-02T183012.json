@@ -1,0 +1,50 @@
+{
+ "uf": "se",
+ "cargo": "governador",
+ "capturado_em": "2026-10-04T15:35:33.235Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/se/se-c0003-e006259-u.json",
+  "atualizado_tse": "02/10/2026 18:30:12",
+  "secoes_pct": 0,
+  "secoes": "0/5923",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "50",
+   "nome": "DR. HELTON",
+   "partido": "PSOL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "55",
+   "nome": "FÁBIO",
+   "partido": "PSD",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "27",
+   "nome": "TATY  CRISTINA DE JESUS",
+   "partido": "DC",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "10",
+   "nome": "VALMIR DE FRANCISQUINHO",
+   "partido": "REPUBLICANOS",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

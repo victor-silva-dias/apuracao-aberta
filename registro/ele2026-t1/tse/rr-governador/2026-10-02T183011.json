@@ -1,0 +1,58 @@
+{
+ "uf": "rr",
+ "cargo": "governador",
+ "capturado_em": "2026-10-04T15:35:33.167Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rr/rr-c0003-e006259-u.json",
+  "atualizado_tse": "02/10/2026 18:30:11",
+  "secoes_pct": 0,
+  "secoes": "0/1519",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "22",
+   "nome": "ARTHUR HENRIQUE",
+   "partido": "PL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "29",
+   "nome": "CLÉBIO GENUÍNO",
+   "partido": "PCO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "77",
+   "nome": "FARAH MESQUITA",
+   "partido": "SOLIDARIEDADE",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "50",
+   "nome": "ROSI AIRES",
+   "partido": "PSOL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "10",
+   "nome": "SOLDADO SAMPAIO",
+   "partido": "REPUBLICANOS",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

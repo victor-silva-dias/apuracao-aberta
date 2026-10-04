@@ -1,0 +1,66 @@
+{
+ "uf": "ac",
+ "cargo": "governador",
+ "capturado_em": "2026-10-04T15:35:48.947Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ac/ac-c0003-e006259-u.json",
+  "atualizado_tse": "03/10/2026 14:48:19",
+  "secoes_pct": 0,
+  "secoes": "0/2270",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "10",
+   "nome": "ALAN RICK",
+   "partido": "REPUBLICANOS",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "36",
+   "nome": "DR.LUISINHO",
+   "partido": "AGIR",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "21",
+   "nome": "EUDO RAFFAEL",
+   "partido": "PCB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "11",
+   "nome": "MAILZA ASSIS",
+   "partido": "PP",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "40",
+   "nome": "THOR DANTAS",
+   "partido": "PSB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "45",
+   "nome": "TIÃO BOCALOM",
+   "partido": "PSDB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "uf": "to",
+ "cargo": "governador",
+ "capturado_em": "2026-10-04T15:35:33.233Z",
+ "procedencia": {
+  "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/to/to-c0003-e006259-u.json",
+  "atualizado_tse": "03/10/2026 09:13:44",
+  "secoes_pct": 0,
+  "secoes": "0/4384",
+  "totalizacao_final": false
+ },
+ "comparecimento": 0,
+ "abstencao_pct": 0,
+ "brancos_pct": 0,
+ "nulos_pct": 0,
+ "candidatos": [
+  {
+   "numero": "30",
+   "nome": "ATAIDES DE OLIVEIRA",
+   "partido": "NOVO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "27",
+   "nome": "DU PEREIRA",
+   "partido": "DC",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "55",
+   "nome": "LAUREZ MOREIRA",
+   "partido": "PSD",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "50",
+   "nome": "PROF WITER NAVES",
+   "partido": "PSOL",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "44",
+   "nome": "PROFESSORA DORINHA",
+   "partido": "UNIÃO",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  },
+  {
+   "numero": "45",
+   "nome": "VICENTINHO JÚNIOR",
+   "partido": "PSDB",
+   "votos": 0,
+   "pct": 0,
+   "situacao": ""
+  }
+ ]
+}
