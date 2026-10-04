@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "apuracao-aberta": {
-      "command": "bun",
-      "args": ["src/mcp.ts"]
-    }
-  }
-}

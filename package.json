@@ -1,24 +1,18 @@
 {
   "name": "apuracao-aberta",
   "version": "0.1.0",
-  "description": "Apuração das eleições brasileiras direto dos dados públicos do TSE: painel no terminal e servidor MCP para agentes.",
-  "type": "module",
-  "license": "MIT",
   "author": "Victor Dias",
-  "scripts": {
-    "motor": "bun src/motor.ts",
-    "mcp": "bun src/mcp.ts",
-    "demo": "TSE_BASE=fixture bun src/motor.ts --uf br,sp --uma-vez",
-    "tipos": "tsc --noEmit -p ."
-  },
-  "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.32.0",
-    "zod": "^4.6.5"
-  },
   "devDependencies": {
     "@types/bun": "latest"
   },
   "peerDependencies": {
     "typescript": "^7.0.2"
-  }
+  },
+  "description": "Harness de Claude Code para acompanhar a apuração das eleições brasileiras direto dos dados públicos do TSE.",
+  "license": "MIT",
+  "scripts": {
+    "capturar": "bun .claude/skills/apuracao/tse.ts capturar",
+    "tipos": "tsc --noEmit -p ."
+  },
+  "type": "module"
 }

@@ -1,4 +1,5 @@
 {
+  "include": [".claude/**/*.ts"],
   "compilerOptions": {
     // Environment setup & latest features
     "lib": ["ESNext"],

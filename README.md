@@ -2,86 +2,60 @@
 
 > Projeto independente e não oficial. Não tem vínculo com o Tribunal Superior Eleitoral. Os resultados oficiais estão em [resultados.tse.jus.br](https://resultados.tse.jus.br).
 
-Acompanhe a apuração das eleições brasileiras direto dos dados públicos do TSE, sem intermediário. A ferramenta tem dois usos:
+Um harness de [Claude Code](https://claude.com/claude-code) para acompanhar a apuração das eleições brasileiras conversando. Você digita uma skill, o agente busca os dados atualizados direto do TSE (ou da imprensa), grava tudo neste repo e responde com procedência. Ao fim da noite, a pasta `registro/` guarda a história da apuração: cada versão publicada pelo TSE, cada boletim, cada checagem.
 
-- **Para você:** um painel no terminal que se atualiza sozinho e avisa com bipe quando algo relevante acontece.
-- **Para agentes:** um servidor [MCP](https://modelcontextprotocol.io) para perguntar a um assistente de IA "como está o Senado em MG?" e receber números com procedência.
+## Como usar
 
-```
-Apuração Aberta · Eleições 04/10/2026, 1º turno   19:42:31 · próxima consulta 19:43:01
-
-BR · Presidente  63,40% das seções (316.523/499.248)  TSE 04/10/2026 19:42:10
-   1. 00    CANDIDATO                    PARTIDO          12.345.678   41,20%  ██████████··············
-   …
-Eventos
-  19:40:02  SP · Governador: 50% das seções totalizadas; lidera …
-```
-
-## Começando
-
-Requer [Bun](https://bun.sh).
+Requer [Claude Code](https://claude.com/claude-code) e [Bun](https://bun.sh).
 
 ```bash
 git clone https://github.com/victor-silva-dias/apuracao-aberta
 cd apuracao-aberta
-bun install
-
-bun src/motor.ts --uf br,sp          # Presidente (Brasil) + Presidente, Governador e Senador (SP)
-bun run demo                          # dados fictícios, sem rede
+claude
 ```
 
-### Opções do motor
+E dentro do Claude Code:
 
-| Opção | Padrão | O que faz |
-|---|---|---|
-| `--uf br,sp,mg` | `br` | abrangências: `br` (só presidente) ou siglas de UF |
-| `--cargos governador,senador` | majoritários | `presidente`, `governador`, `senador`, `depfed`, `depest`, `depdist` |
-| `--intervalo 30` | `30` | segundos entre consultas (mínimo 10) |
-| `--top 6` | `6` | candidatos por painel |
-| `--turno 2` | `1` | turno |
-| `--uma-vez` | | consulta uma vez e sai |
-| `--descobrir` | | testa as URLs do TSE e mostra o status HTTP |
-
-Cada versão nova publicada pelo TSE é salva em `dados/snapshots/`, e os eventos vão para `dados/eventos.jsonl`. Assim você tem o histórico da noite para analisar depois.
-
-**Eventos detectados:** apuração começou, mudança de liderança, marcos de 10/25/50/75/90/99/100% das seções, candidato marcado como eleito ou indo para o 2º turno (só quando o TSE marca) e totalização final.
-
-## Servidor MCP
-
-```bash
-bun src/mcp.ts
+```
+/apuracao                     Presidente + governadores e Senado nas 27 UFs
+/apuracao sp:governador       um cargo numa UF
+/boletim                      o que mudou desde o último boletim, pronto para compartilhar
+/loop 30m /boletim            um boletim a cada 30 minutos
+/checar fulano já está eleito confere com o TSE?
+/imprensa Senado em MG        o que a imprensa está reportando, com números conferidos
 ```
 
-O `.mcp.json` já registra o servidor para o Claude Code: basta abrir o repo. Em outros clientes, use `command: "bun"` e `args: ["<caminho>/src/mcp.ts"]`.
+Alvos: `br`, a sigla da UF (`sp`) ou UF com cargos (`sp:governador,senador`). Cargos: `presidente`, `governador`, `senador`, `depfed`, `depest`, `depdist`. Para o 2º turno, peça ao agente para usar o turno 2.
 
-| Ferramenta | Para quê |
-|---|---|
-| `eleicoes` | pleito em curso, códigos e cargos disponíveis |
-| `resultado` | resultado atual de um cargo numa UF (ou `br`) |
-| `candidato` | busca por nome ou número; posição, votos e situação |
-| `panorama` | quem lidera governador, senador ou presidente em cada UF |
-| `eventos` | eventos detectados pelo motor |
-| `historico` | evolução de um cargo ao longo da apuração (do acervo local) |
+## O que fica gravado
 
-Toda resposta traz um bloco `procedencia` com a URL do arquivo do TSE, o horário de atualização e o % de seções totalizadas.
+```
+registro/ele2026-t1/
+  tse/<uf>-<cargo>/<horário-do-TSE>.json   cada versão publicada pelo TSE
+  boletins/<data-hora>.md                   boletins
+  checagens/<data-hora>-<tema>.md           checagens
+  imprensa/<data-hora>-<tema>.md            leituras da imprensa
+```
+
+Cada skill termina com um commit local, então o histórico do git é a linha do tempo da noite.
 
 ## Princípios
 
-O servidor envia estas regras como instruções a todo agente que se conecta:
+O `CLAUDE.md` define a doutrina que o agente segue:
 
 1. **Procedência sempre:** número sem % de seções e horário do TSE não é informação.
 2. **Sem projeção:** "eleito" e "2º turno" só aparecem quando o TSE marca.
-3. **Neutralidade:** números e fatos, sem adjetivo sobre candidato ou eleitor.
+3. **Neutralidade:** números e fatos atribuídos, sem adjetivo sobre candidato ou eleitor.
 4. **Parcial é parcial:** até a totalização final, tudo pode mudar.
+5. **Número vem do TSE:** a imprensa contextualiza, mas não é fonte de números.
+
+## Imprensa
+
+A skill `/imprensa` lê só as fontes de [`fontes.md`](.claude/skills/imprensa/fontes.md). A lista não usa o rótulo "imparcial". Usa critérios explícitos (cobertura factual, política de correção, separação entre notícia e opinião, IFCN ou Comprova para checagem) e reúne de propósito veículos de linhas editoriais diferentes. A skill cruza pelo menos três veículos, mostra as divergências sem escolher lado e confere os números contra o TSE. Quer propor uma fonte? Abra um PR justificando pelos critérios.
 
 ## Como funciona
 
-O TSE não tem uma API documentada de resultados. O app oficial lê arquivos JSON estáticos de um CDN público, e este projeto lê os mesmos arquivos:
-
-- `oficial/comum/config/ele-c.json` traz os códigos de cada eleição, que o motor descobre sozinho.
-- `oficial/{ciclo}/{eleição}/dados/{uf}/{uf}-c{cargo}-e{eleição}-u.json` traz o resultado por cargo e abrangência.
-
-As consultas usam ETag e respeitam um intervalo mínimo, para não sobrecarregar um serviço público em dia de eleição.
+O TSE não tem uma API documentada de resultados. O app oficial lê arquivos JSON estáticos de um CDN público, e este projeto lê os mesmos arquivos. O único código do repo é [`tse.ts`](.claude/skills/apuracao/tse.ts), que busca, normaliza e grava. Todo o resto é texto: skills, um subagente e a doutrina.
 
 ## Licença
 
